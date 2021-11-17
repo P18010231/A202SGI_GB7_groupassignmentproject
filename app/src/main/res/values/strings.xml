@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">A202SGI_GroupAssignmentProject</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="add_event_title">Create new event</string>
+    <string name="add_event_name">Event name:</string>
+    <string name="add_start_date">Start date:</string>
+    <string name="btn_new_event">Done</string>
+    <string name="add_end_date">End date:</string>
+    <string name="add_event_desc">Description:</string>
+    <string name="date_picker_title">Select a date</string>
+    <string name="btn_delete">Delete</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="day_of_week">Day of the week</string>
+    <string name="add_weekly_event_title">Create new weekly event</string>
+    <string name="add_day_of_week">Day of the week</string>
+    <string name="add_time">Duration</string>
+    <string name="add_todolist">Create new task to do</string>
+    <string name="add_todoname">Task Name:</string>
+    <string name="time_picker_title">Select a time</string>
+
+    <string-array name="day_of_week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
